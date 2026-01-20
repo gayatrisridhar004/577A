@@ -49,17 +49,18 @@ To ensure stability, the design meets the following noise margin requirements:
 | **Output Register** | ![Output Register](https://github.com/user-attachments/assets/d45f41a7-b3b1-46cf-bc5a-148b10abea76) |
 
  #### Read Static Noise Margin (RSNM)
-![RSNM Plot](https://github.com/user-attachments/assets/00e4d50e-0a0a-4f09-99bb-223edc493e19)
+<img width="957" height="386" alt="Screenshot 2026-01-20 at 12 02 11 AM" src="https://github.com/user-attachments/assets/a831956b-1cae-4534-a0eb-4398cba922b9" />
+
 
 #### Write Static Noise Margin (WSNM)
-![WSNM Plot](https://github.com/user-attachments/assets/824f7277-f309-4b7d-a0a8-dbe03354e8dd)
+<img width="945" height="386" alt="Screenshot 2026-01-20 at 12 02 45 AM" src="https://github.com/user-attachments/assets/c90ed2af-5d2c-47e9-b05c-7f85e5577734" />
 
 ---
 
 ### 4. Summary of Results
 Based on the simulation plots above, the design achieves the following:
-* **Measured RSNM:** [Insert Value, e.g., 215mV] (Requirement: $\ge 200\text{mV}$)
-* **Measured WSNM:** [Insert Value, e.g., 410mV] (Requirement: $\ge 395\text{mV}$)
+* **Measured RSNM:** [210mV] (Requirement: $\ge 200\text{mV}$)
+* **Measured WSNM:** [444mV] (Requirement: $\ge 395\text{mV}$)
 
 
 
