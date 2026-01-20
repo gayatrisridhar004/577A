@@ -47,3 +47,19 @@ To ensure stability, the design meets the following noise margin requirements:
 | **Column Decoder** | ![Column Decoder](https://github.com/user-attachments/assets/8222d303-02bc-4b3f-ae12-44125a65abaa) |
 | **Row Decoder** | ![Row Decoder](https://github.com/user-attachments/assets/6b298e95-0243-48bb-b524-7aee650787c4) |
 | **Output Register** | ![Output Register](https://github.com/user-attachments/assets/d45f41a7-b3b1-46cf-bc5a-148b10abea76) |
+
+ #### Read Static Noise Margin (RSNM)
+![RSNM Plot](https://github.com/user-attachments/assets/00e4d50e-0a0a-4f09-99bb-223edc493e19)
+
+#### Write Static Noise Margin (WSNM)
+![WSNM Plot](https://github.com/user-attachments/assets/824f7277-f309-4b7d-a0a8-dbe03354e8dd)
+
+---
+
+### 4. Summary of Results
+Based on the simulation plots above, the design achieves the following:
+* **Measured RSNM:** [Insert Value, e.g., 215mV] (Requirement: $\ge 200\text{mV}$)
+* **Measured WSNM:** [Insert Value, e.g., 410mV] (Requirement: $\ge 395\text{mV}$)
+
+
+
